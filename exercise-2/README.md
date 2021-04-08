@@ -27,6 +27,6 @@ Learn the basics of git workflow, including adding new files.
 
 6. check the repo on your github account.  Did it work?
 
-![sleeping corgi puppy](Corgi.jpg)
+![sleeping corgi puppy](/OneDrive/desktop/"Info 201"/ch04-git-basics/exercise-2/Corgi.jpg)
 
 This is an image of a corgi puppy sleeping in a field of grass
